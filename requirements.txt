@@ -1,0 +1,10 @@
+tensorflow
+keras
+pandas
+numpy
+jupyter 
+notebookinstall 
+tqdm
+opencv-contrib-python
+scikit-learn
+https://jupyter.org/try-jupyter/retro/notebooks/?path=requirement.ipynb
