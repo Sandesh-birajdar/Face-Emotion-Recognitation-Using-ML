@@ -110,7 +110,6 @@ Contributions are welcome! Fork the repo, create a new branch, and submit a pull
 
 🙌 Acknowledgements
 TensorFlow/Keras Community
-
 OpenCV Contributors
 
-FER2013 Dataset Providers
+
